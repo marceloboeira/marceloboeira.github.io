@@ -1,0 +1,10 @@
+# Site settings
+title: Marcelo Boeira
+email: contact@marceloboeira.com
+description: "This is my personal website, make with Jekyll and hosted at Github.cm"
+baseurl: ""
+url: "http://new.marceloboeira.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
