@@ -2,7 +2,7 @@
 title: Marcelo Boeira
 email: contact@marceloboeira.com
 description: "This is my personal website, make with Jekyll and hosted at Github.cm"
-baseurl: "/"
+baseurl: ""
 url: "http://new.marceloboeira.com/"
 
 bitbucket-url: http://bucket.marceloboeira.com
