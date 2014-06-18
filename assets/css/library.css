@@ -2713,9 +2713,9 @@ img.mfp-img {
   padding-top: 0; }
   
  
- /* Github Box */
 
 .github-box-wrap {
+	color: gray !important;
 	display: inline-block;
 	width: 46%;
 	margin-right: 0.6em;
@@ -2736,8 +2736,10 @@ img.mfp-img {
 	color: #4183C4;
 	border: none;
 }
-
-/* Github Box Header */
+.github-box a:visited {
+	color: #4183C4;
+	border: none;
+}
 
 .github-box .github-box-header {
 	position: relative;
@@ -2753,7 +2755,7 @@ img.mfp-img {
 	font-family: Helvetica, Arial, sans-serif;
 	font-weight: normal;
 	font-size: 16px;
-	color: gray;
+	color: gray !important;
 	margin: 0;
 	padding: 10px 10px 10px 10px;
 }
@@ -2811,7 +2813,7 @@ img.mfp-img {
 	border-right: 1px solid #ddd;
 }
 
-/* Github Box Content */
+
 
 .github-box .github-box-content {
 	padding: 10px;
@@ -2831,7 +2833,6 @@ img.mfp-img {
 	font-weight: bold;
 }
 
-/* Github Box Download */
 
 .github-box .github-box-download {
 	position: relative;
@@ -2897,7 +2898,6 @@ img.mfp-img {
 	padding: 0 6px;
 }
 
-/* Breakpoint content-driven */
 
 @media all and (max-width: 678px) {
 	.github-box-wrap {
@@ -2907,7 +2907,6 @@ img.mfp-img {
 	}
 }
 
-/* Fonts */
 
 @font-face {
 	font-family: 'EntypoRegular';
