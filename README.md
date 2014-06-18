@@ -11,7 +11,7 @@ v1.0
 	* Finish Base Texts
 		* ~~Encoding UTF-8 Problems~~
 		* Nav
-			* Englishs
+			* English
 			* Portuguese
 		* Header
 			* English
