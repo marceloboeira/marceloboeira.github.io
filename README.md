@@ -20,10 +20,10 @@ v1.0
 			* ~~Portuguese~~
 		* About Me
 			* English
-			* Portuguese
+			* ~~Portuguese~~
 		* Contact
-			* English
-			* Portuguese
+			* ~~English~~
+			* ~~Portuguese~~
 		* Education
 			* English
 			* Portuguese
