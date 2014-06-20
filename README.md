@@ -25,13 +25,13 @@ v1.0
 			* ~~English~~
 			* ~~Portuguese~~
 		* Education
-			* English
+			* ~~English~~
 			* ~~Portuguese~~
 		* Work
-			* English
+			* ~~English~~
 			* ~~Portuguese~~
 		* Skills
-			* English
+			* ~~English~~
 			* ~~Portuguese~~
 
 	* New Resume Design (PDF-File)
