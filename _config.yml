@@ -6,12 +6,16 @@ baseurl: ""
 url: "http://new.marceloboeira.com/"
 
 
+
+gravatar-url: http://api.vimia.cc/gravatar/?email=marceloboeira@live.com&size=400
+
 bitbucket-url: http://bucket.marceloboeira.com
 skype-url: callTo://boeiraexe
 linkedin-url: http://br.linkedin.com/in/marceloboeira
 instagram-url: http://instagram.com/marceloboeirajr
 github-user: marceloboeira
 github-url: http://github.com/
+github-repo: http://github.com/marceloboeira/marceloboeira.github.io/
 facebook-user: b03ir4
 facebook-url: http://fb.me/
 twitter-user: b03ir4

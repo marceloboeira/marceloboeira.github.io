@@ -32,13 +32,13 @@ v1.0
 			* ~~Portuguese~~
 		* Skills
 			* English
-			* ~~Portuguese~~	
-		
+			* ~~Portuguese~~
+
 	* New Resume Design (PDF-File)
 		* English
 		* Portugese
-	
-* Front-end Coding 	
+
+* Front-end Coding
 	* ~~Social Links~~
 		* ~~Top~~
 		* ~~Bottom~~
@@ -49,11 +49,11 @@ v1.0
 		* Fonts
 		* CSS
 		* JS
-		
+
 * Jekyll
 	* ~~Layout~~
 	* ~~Multilanguage Support~~
-	
+
 v 2.0
 ====
 * Contact Form
