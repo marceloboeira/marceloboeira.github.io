@@ -19,7 +19,7 @@ v1.0
 			* ~~English~~
 			* ~~Portuguese~~
 		* About Me
-			* English
+			* ~~English~~
 			* ~~Portuguese~~
 		* Contact
 			* ~~English~~
