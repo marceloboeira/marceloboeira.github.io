@@ -7,7 +7,7 @@ TODO
 ====
 
 v1.0
-
+=====
 * Base Design
 	* Fav-icon
 	* ~~Encoding UTF-8 Problems~~
@@ -55,6 +55,6 @@ v1.0
 	* ~~Multilanguage Support~~
 
 v 2.0
-====
+=====
 * Contact Form
 * Blog Support
