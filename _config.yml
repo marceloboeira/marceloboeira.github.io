@@ -1,16 +1,13 @@
 ﻿# Site settings
 title: Marcelo Boeira
-email: contact@marceloboeira.com
-description: "This is my personal website, make with Jekyll and hosted at Github.cm"
+email: me@marceloboeira.com
+description: "This is my personal website, make with Jekyll and hosted at Github.com"
 baseurl: ""
 url: "http://new.marceloboeira.com/"
 
-
-
 gravatar-url: http://www.gravatar.com/avatar/fb84d2df934999fc747feb4d7c758e2c&size=400
-
 bitbucket-url: http://bucket.marceloboeira.com
-skype-url: callTo://boeiraexe
+skype-url: callTo://marceloboeira7
 linkedin-url: http://br.linkedin.com/in/marceloboeira
 instagram-url: http://instagram.com/marceloboeirajr
 github-user: marceloboeira
@@ -18,12 +15,8 @@ github-url: http://github.com/
 github-repo: http://github.com/marceloboeira/marceloboeira.github.io/
 facebook-user: b03ir4
 facebook-url: http://fb.me/
-twitter-user: b03ir4
+twitter-user: marceloboeira_
 twitter-url: http://twitter.com/
 
-
-
-
-# Build settings
 markdown: kramdown
 permalink: pretty
