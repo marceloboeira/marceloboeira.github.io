@@ -1,9 +1,8 @@
 ﻿# Site settings
 title: Marcelo Boeira
 email: me@marceloboeira.com
-description: "This is my personal website, make with Jekyll and hosted at Github.com"
-baseurl: ""
-url: "http://new.marceloboeira.com/"
+description: "Software Engineer living in Berlin, Germany"
+url: "http://marceloboeira.com/"
 
 markdown: kramdown
 permalink: pretty
