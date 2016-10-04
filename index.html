@@ -1,128 +1,41 @@
 ---
-layout: home
-lang: en
 ---
-<section id="about">
-  <div class="row">
-    <div class="three columns">
-      <img class="profile-pic"  src="{{site.gravatar-url}}" alt="" />
-    </div>
-    <div class="nine columns main-col">
-      <h2>About me</h2>
-        <p>A 22 years old, self-taught Software Engineer / Developer. Highly technical, results­ oriented developer with more than 5 years of experience on software development.</p>
-      <div class="row">
-        <div class="columns contact-details">
-          <h2>Contact</h2>
-          <p class="address">
-            <span>Marcelo Boeira</span><br>
-            <i class="fa fa-map-marker"></i>
-            <span>
-              Porto Alegre, RS - Brazil</span>
-            <br>
-            <i class="fa fa-mobile"></i> <span>+55 51 9613-8661</span>
-            <br>
-            <i class="fa fa-envelope-o"></i> <span>me@marceloboeira.com</span>
-          </p>
-        </div>
-
-        <div class="columns download">
-          <p>
-            <a href="/assets/resume/MarceloBoeiraClassic.pdf" target="_blank" class="button"><i class="fa fa-download"></i>Download Resume</a>
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="resume">
-  <div class="row education">
-    <div class="three columns header-col">
-      <h1><span><i class="fa fa-graduation-cap"></i>  Education</span></h1>
-    </div>
-    <div class="nine columns main-col">
-      <div class="row item">
-        <div class="twelve columns">
-          <h3><a target="_blank" href="http://unisinos.br"><i class="fa fa-institution"></i> Unisinos </a></h3>
-          <p class="info">Electronics Engineering <span>&bull;</span> <em class="date">January 2012 - Today*</em></p>
-          <p>Emphasis on Embedded Systems</p>
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="shortcut icon" href="{{ '/assets/img/favicon.png' | prepend: site.baseurl }}"/>
+    <link rel="stylesheet" href="{{ '/assets/css/library.css' | prepend: site.baseurl }}"/>
+  </head>
+  <body>
+    <header>
+      <div class="row banner">
+        <div class="banner-text">
+          <h1 class="responsive-headline">Marcelo Boeira</h1>
+          <p> Software Engineer - Berlin, 🇩🇪 </p>
+          <ul class="social">
+            <li><a target="_blank" title="Resume" href=""><i class="fa fa-file-pdf-o"></i></a></li>
+            <li><a target="_blank" title="GitHub" href="http://github.com/marceloboeira"><i class="fa fa-github"></i></a></li>
+            <li><a target="_blank" title="Medium" href="http://medium.com/@marceloboeira"><i class="fa fa-medium"></i></a></li>
+            <li><a target="_blank" title="LinkedIn" href="http://de.linkedin.com/in/marceloboeira"><i class="fa fa-linkedin"></i></a></li>
+            <li><a target="_blank" title="Xing" href="https://www.xing.com/profile/Marcelo_Boeira"><i class="fa fa-xing"></i></a></li>
+            <li><a target="_blank" title="Skype" href="callTo://marceloboeira7"><i class="fa fa-skype"></i></a></li>
+            <li><a target="_blank" title="Instagram" href="http://instagram.com/marceloboeira_"><i class="fa fa-instagram"></i></a></li>
+            <li><a target="_blank" title="SoundCloud" href="http://soundcloud.com/marceloboeira"><i class="fa fa-soundcloud"></i></a></li>
+            <li><a target="_blank" title="Twitter" href="http://twitter.com/marceloboeira_"><i class="fa fa-twitter"></i></a></li>
+            <li><a target="_blank" title="Facebook" href="http://fb.me/b03ir4"><i class="fa fa-facebook"></i></a></li>
+          </ul>
         </div>
       </div>
-      <div class="row item">
-        <div class="twelve columns">
-          <h3><i class="fa fa-institution"></i> SENAI</h3>
-          <p class="info">Electricity and Industrial Automation<span>&bull;</span> <em class="date">January 2010 - December 2011</em></p>
-          <p>The course consisted of 4 modules, a total of 1600 hours</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="row work">
-    <div class="three columns header-col">
-      <h1><span><i class="fa fa-cogs"></i>  Work</span></h1>
-    </div>
-    <div class="nine columns main-col">
-      <div class="row item">
-        <div class="twelve columns">
-          <h3><i class="fa fa-code"></i> Globo.com</h3>
-          <p class="info">Software Engineer <span>&bull;</span> <em class="date">2015 - Currently</em></p>
-          <p>
-            Work as a software engineer, on the Encoding Factory, a video transcoding farm responsible for the provisioning of suitable videos for several kinds of devices and qualities. Handling since backend issues to video encoding basics on daily bases. 
-          </p>
-        </div>
-      </div>
-      <div class="row item">
-        <div class="twelve columns">
-          <h3><i class="fa fa-code"></i> PrimeSystems</h3>
-          <p class="info">Software Developer <span>&bull;</span> <em class="date">2014 - 2015</em></p>
-          <p>
-            Worked as a full-stack developer, handling since backend problems, such as front-end and also deploy/server issues. With a great team support, I worked on the development and maintenance of five very active web applications, with mobile API support and a huge amount of active users. 
-          </p>
-        </div>
-      </div>
-      <div class="row item">
-        <div class="twelve columns">
-          <h3><i class="fa fa-cloud"></i> iMasters</h3>
-          <p class="info">Teacher / Content Creator <span>&bull;</span> <em class="date">2012 - 2015</em></p>
-          <p>
-            An independent part­time job, working on text and video tutorials for software development tools and frameworks such as Javascript, jQuery, Node, Ruby on Rails, and git.
-          </p>
-        </div>
-      </div>
-      <div class="row item">
-        <div class="twelve columns">
-          <h3><i class="fa fa-building"></i> Stefanini IT Solutions</h3>
-          <p class="info">Systems Analyst <span>&bull;</span> <em class="date">2013 - 2014</em></p>
-          <p>
-            Allocated Support to the Customer: 3M Brazil, I was responsible for supporting the server infrastructure and network of Rio Grande do Sul
-          </p>
-        </div>
-      </div>
-      <div class="row item">
-        <div class="twelve columns">
-          <h3><i class="fa fa-building"></i> Núcleo Sistemas</h3>
-          <p class="info">Software Developer <span>&bull;</span> <em class="date">2012 - 2013</em></p>
-          <p> Led a web development team on the migration of an old desktop ERP into a modern SaaS cloud­based web application, with PHP, OOP, MVC, Zend Framework, Node JS (for real time modules), Java (As a Back Office migration resource).  </p>
-        </div>
-      </div>
-      <div class="row item">
-        <div class="twelve columns">
-          <h3><i class="fa fa-building"></i> LOHR Systems</h3>
-          <p class="info">Software Developer <span>&bull;</span> <em class="date">2011 - 2012</em></p>
-          <p> Software development with Delphi 7, XE2, XE3, PGSQL, MySQL. Working on 7 desktop applications which manage electronic systems firmwares. </p>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="row skill">
-    <div class="three columns header-col">
-      <h1><span><i class="fa fa-stack-overflow"></i> Skills</span></h1>
-    </div>
-    <div class="nine columns main-col">
-      <p>Some skills:
-      </p>
-      {% include home_skills.html %}
-    </div>
-  </div>
-</section>
+    </header>
+  </body>
+</html>

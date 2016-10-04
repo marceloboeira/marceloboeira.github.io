@@ -5,18 +5,5 @@ description: "This is my personal website, make with Jekyll and hosted at Github
 baseurl: ""
 url: "http://new.marceloboeira.com/"
 
-gravatar-url: http://www.gravatar.com/avatar/fb84d2df934999fc747feb4d7c758e2c&size=400
-bitbucket-url: http://bucket.marceloboeira.com
-skype-url: callTo://marceloboeira7
-linkedin-url: http://br.linkedin.com/in/marceloboeira
-instagram-url: http://instagram.com/marceloboeirajr
-github-user: marceloboeira
-github-url: http://github.com/
-github-repo: http://github.com/marceloboeira/marceloboeira.github.io/
-facebook-user: b03ir4
-facebook-url: http://fb.me/
-twitter-user: marceloboeira_
-twitter-url: http://twitter.com/
-
 markdown: kramdown
 permalink: pretty
