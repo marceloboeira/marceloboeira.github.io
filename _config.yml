@@ -1,8 +1,8 @@
 ﻿# Site settings
-title: Marcelo Boeira - Senior Platform Engineer @ heycar
+title: Marcelo Boeira - Software Engineer
 email: me@marceloboeira.com
-description: "Platform Engineer living in Berlin, Germany"
-url: "http://marceloboeira.com/"
+description: "Software Engineer living in Berlin, Germany"
+url: "https://marceloboeira.com/"
 
 markdown: kramdown
 permalink: pretty
