@@ -1,2 +1,2 @@
 # marceloboeira.com
-> This is my personal website based on Jekyll and hosted by Github.
+> Just a hub with links to my social-networks and stuff

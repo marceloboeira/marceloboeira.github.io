@@ -432,7 +432,7 @@
   a, a:visited {
     text-decoration: none;
     outline: 0;
-    color: #11ABB0;
+    color: #ff5a5f;
 
     -webkit-transition: color .3s ease-in-out;
     -moz-transition: color .3s ease-in-out;
@@ -943,7 +943,7 @@
     text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
   }
   header p {
-    font: 15px/30px 'opensans-bold', sans-serif; 
+    font: 15px/30px 'opensans-bold', sans-serif;
     color: #fff;
     margin: 0 auto;
     width: 70%;
@@ -1008,7 +1008,7 @@
     header .social {
       margin: 18px 0 24px 0;
       font-size: 24px;
-      line-height: 36px;      
+      line-height: 36px;
     }
     header .social li { margin: 0 10px; }
 

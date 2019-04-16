@@ -1,8 +1,7 @@
 ﻿# Site settings
-title: Marcelo Boeira - Software Engineer
+title: Marcelo Boeira - Site Reliability Engineer
 email: me@marceloboeira.com
-description: "Software Engineer living in Berlin, Germany"
+description: "Site Reliability Engineer - Berlin, Germany"
 url: "https://marceloboeira.com/"
-
 markdown: kramdown
 permalink: pretty
