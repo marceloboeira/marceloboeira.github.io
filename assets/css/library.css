@@ -317,7 +317,7 @@
   a.movinga { color: #ff684d !important }
   a.heycar  { color: #00d9ae !important }
   a.airbnb  { color: #ff5a60 !important }
-  a.secret  { color: #ff9900 !important }
+  a.aws  { color: #ff9900 !important }
   p { margin: 0 0 30px 0; }
   p img { margin: 0; }
   p.lead {
@@ -437,7 +437,6 @@
   a, a:visited {
     text-decoration: none;
     outline: 0;
-    color: #ff5a5f;
 
     -webkit-transition: color .3s ease-in-out;
     -moz-transition: color .3s ease-in-out;
@@ -445,7 +444,7 @@
     transition: color .3s ease-in-out;
   }
   a:hover, a:focus { color: #313131; }
-  p a, p a:visited { line-height: inherit; }
+  p a { line-height: inherit; }
 
 
   /*  4. List  --------------------------------------------------------- */
